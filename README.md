@@ -1,5 +1,5 @@
-# java_ChatClient
-<h3>Javafx client/server file transfert</h3>
+# java_FileTransfertClient
+<h3>File transfert client</h3>
 <p>Here is an example of client/server file transfert in javaSE.</p>
 <p>First launch the server, then launch the client<p>
 <p>On the client try commands :</p>
